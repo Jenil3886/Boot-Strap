@@ -1,0 +1,12 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.container{
+    border: 5px solid black;
+}
+
+.row{
+    border: 1px solid red;
+}

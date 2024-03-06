@@ -1,0 +1,25 @@
+.container{
+    border: 1px solid black;
+}
+
+.row{
+    border: 1px solid black;
+}
+
+.p1{
+    background-color: burlywood;
+}
+
+.col-md-9{
+    background-color: yellow;
+}
+
+.col-md-3{
+    background-color: blue;
+}
+
+h4{
+    background-color: green;
+}
+
+
